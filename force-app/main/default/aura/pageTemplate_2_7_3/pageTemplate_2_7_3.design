@@ -1,0 +1,11 @@
+<!--
+ - Created by Brooks Johnson on 7/10/2022.
+ -->
+
+<design:component label="three colums 2 7 3">
+    <flexipage:template >
+        <flexipage:region name="left" defaultWidth="Small"/>
+        <flexipage:region name="center" defaultWidth="Large"/>
+        <flexipage:region name="right" defaultWidth="Small"/>
+    </flexipage:template>
+</design:component>
